@@ -33,14 +33,15 @@ body {
 
 #icon {
   margin: 0 auto;
-  width: 1050px;
+  width: 2050px;
   height: 175px;
   margin-top: 89px;
 }
 
 .design {
-  float: right;
+  float: left;
   text-align: bottom-center;
   width: 100px;
   height: 85px;
+  padding-left: 20em;
 }
