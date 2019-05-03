@@ -30,3 +30,17 @@ body {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+#icon {
+  margin: 0 auto;
+  width: 1050px;
+  height: 175px;
+  margin-top: 89px;
+}
+
+.design {
+  float: right;
+  text-align: bottom-center;
+  width: 100px;
+  height: 85px;
+}
