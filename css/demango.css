@@ -3,7 +3,6 @@
 .container {
   position: relative;
   text-align: center;
-  color: white;
 }
 
 .centered {
@@ -16,4 +15,18 @@
 
 body {
   text-align: center;
+}
+
+.services {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.ontop {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
 }
