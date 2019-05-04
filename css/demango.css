@@ -1,6 +1,6 @@
 }
 
-.container {
+.part1 {
   position: relative;
   text-align: center;
 }
@@ -43,5 +43,17 @@ body {
   text-align: bottom-center;
   width: 100px;
   height: 85px;
-  padding-left: 20em;
+  padding-left: 16em;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
 }
