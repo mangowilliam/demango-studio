@@ -15,6 +15,7 @@
 
 body {
   text-align: center;
+  width: 100%
 }
 
 .services {
@@ -46,14 +47,14 @@ body {
   padding-left: 16em;
 }
 
-.column {
-  float: left;
-  width: 25%;
-  padding: 5px;
+.row {
+  width: 100%;
+  overflow: hidden;
+  margin: 22px;
+  background: white;
 }
 
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
+#space {
+  margin: 0px;
+  background: white;
 }
