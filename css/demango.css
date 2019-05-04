@@ -58,3 +58,12 @@ body {
   margin: 0px;
   background: white;
 }
+
+.contacts {
+  position: relative;
+  text-align: center;
+}
+
+.lenth {
+  width: 100%
+}
