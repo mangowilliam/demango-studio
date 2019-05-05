@@ -1,12 +1,3 @@
-/*$(document).ready(function() {
-  $("a.hover").mouseover(function(event) {
-    $("div.popup").show();
-    event.preventDefault();
-  });
-  $("a.hover").mouseout(function() {
-    $(this).children("div.popup").hide();
-  });
-});*/
 $(document).ready(function() {
   $(".btn_dsn").click(function() {
     $("#dsn").toggle();
