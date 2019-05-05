@@ -5,5 +5,27 @@
   });
   $("a.hover").mouseout(function() {
     $(this).children("div.popup").hide();
-  });*/
+  });
+});*/
+$(document).ready(function() {
+  $(".btn_dsn").click(function() {
+    $("#dsn").toggle();
+    $(".btn_dsn").hide();
+  });
+  $("#dsn").click(function() {
+    $(".btn_dsn").toggle();
+    $("#dsn").hide();
+
+  });
+
+});
+$(document).ready(function() {
+  $(".btn_dev").click(function() {
+    $("#dev").toggle();
+  });
+});
+$(document).ready(function() {
+  $(".btn_mgt").click(function() {
+    $("#mgt").toggle();
+  });
 });
