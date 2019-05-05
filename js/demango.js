@@ -1,8 +1,9 @@
-$(document).ready(function() {
-  $("#pop").mouseover(function() {
-    $(this).children(".popup").show();
+/*$(document).ready(function() {
+  $("a.hover").mouseover(function(event) {
+    $("div.popup").show();
+    event.preventDefault();
   });
-  $("#pop").mouseout(function() {
-    $(this).children(".popup").hide();
-  });
+  $("a.hover").mouseout(function() {
+    $(this).children("div.popup").hide();
+  });*/
 });

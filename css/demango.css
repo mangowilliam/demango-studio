@@ -15,7 +15,9 @@
 
 body {
   text-align: center;
-  width: 100%
+  z-index: 20;
+  color: #000;
+  text-decoration: none;
 }
 
 .services {
@@ -68,10 +70,31 @@ body {
   width: 100%
 }
 
-.popup {
+.portfolio {
+  z-index: 20;
+}
+
+.hided:hover {
+  z-index: 30;
+}
+
+.hided span.showd {
   display: none;
+}
+
+.hided:hover span.showd {
   position: absolute;
-  border: 1px solid #000;
-  width: 40px;
-  height: 40px;
+  display: block;
+  font-size: 18px;
+  top: auto;
+  right: auto;
+  border: 1px solid grey;
+  background-color: white;
+}
+
+span.showbdOnHover {
+  font-size: 16px;
+  font-weight: normal;
+  color: #444;
+  line-height: 18px
 }
