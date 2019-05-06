@@ -32,6 +32,6 @@ $(document).ready(function() {
   $("button").click(function(event) {
     event.preventDefault();
     var user = document.getElementById("name").value;
-    alert(user + " we have received your message. Thank you from mango");
+    alert("Hi" + user + " we have received your message. Thank you from mango");
   });
 })
