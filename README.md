@@ -4,7 +4,7 @@
 ## Description
 The project enables user to view  and sample our services as it acts as a gateway and the starting point to seeking for our services such as design development and management.you can also contact us .
 ## Setup/Installation Requirements
-you can access through this link; https://mangowilliam.github.io/demango-stidio/
+you can access through this link;https://mangowilliam.github.io/demango-studio/
 and this are the expected working states on a web browser and an internet connection
 alternatively you can down from github/mangowilliam.
 ### BDD
@@ -13,7 +13,7 @@ alternatively you can down from github/mangowilliam.
 |enter name and email	       |submit       |get notification            |
 | click on icons	           |             |  |read description         |
 |click on description	       |see the icon |                            |
-|hover over portfolio class     |1.8,2     |see message box             |
+|hover over portfolio class  |see message box             |
 ## Known Bugs
 So far no identified bugs but if you get any contact me on 0702658317
 ## Technologies Used
