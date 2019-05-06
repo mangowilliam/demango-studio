@@ -108,6 +108,10 @@ span.fullname {
   display: none;
 }
 
+::placeholder {
+  color: white;
+}
+
 #name {
   background: transparent;
 }

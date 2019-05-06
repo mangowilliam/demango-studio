@@ -29,9 +29,8 @@ $(document).ready(function() {
   });
 });
 $(document).ready(function() {
-  $("button").click(function(event) {
-    event.preventDefault();
+  $("#result").click(function() {
     var user = document.getElementById("name").value;
-    alert("Hi" + user + " we have received your message. Thank you from mango");
+    alert(" Hi " + user + " we have received your message. Thank you from mango");
   });
 })
