@@ -28,3 +28,11 @@ $(document).ready(function() {
     $("#mgt").hide();
   });
 });
+$(document).ready(function() {
+  $("submit").click(function(event) {
+    event.preventDefault();
+    var user = document.getElementById(name).value;
+    alert("user");
+    $(".fullname").show();
+  });
+})

@@ -104,6 +104,22 @@ span.showbdOnHover {
   line-height: 18px
 }
 
+span.fullname {
+  display: none;
+}
+
+#name {
+  background: transparent;
+}
+
+#message {
+  background: transparent;
+}
+
+#mail {
+  background: transparent;
+}
+
 @media (min-width: 768px) {
   .container {
     width: 750px;
