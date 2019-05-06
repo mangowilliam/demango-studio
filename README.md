@@ -4,7 +4,7 @@
 ## Description
 The project enables user to view  and sample our services as it acts as a gateway and the starting point to seeking for our services such as design development and management.you can also contact us .
 ## Setup/Installation Requirements
-you can access through this link; https://mangowilliam.github.io/demango-stidio/
+you can access through this link;https://mangowilliam.github.io/demango-studio/
 and this are the expected working states on a web browser and an internet connection
 alternatively you can down from github/mangowilliam.
 ### BDD
