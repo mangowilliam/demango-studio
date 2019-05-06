@@ -26,5 +26,23 @@ $(document).ready(function() {
   $("#mgt").click(function() {
     $(".btn_mgt").toggle();
     $("#mgt").hide();
+
+  });
+});
+$(document).ready(function() {
+  $("form.fullname").submit(function(event) {
+    var fullname = $("input#name").val();
+    var mail = $("input#mail").val();
+    var message = $("input#message").val();
+    $(".fullname").append(name);
+    $(".mail").append(mail);
+    $(".message").append(message);
+    $(".fullname").text(fullname);
+    event.preventDefault();
+  });
+});
+$(document).ready(function() {
+  $(".sub").click(function() {
+    $(".fullname").show();
   });
 });
