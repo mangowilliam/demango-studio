@@ -1,6 +1,6 @@
 # DELANI STUDIO
 #### The application  determines acts a landing page for our studio
-#### BY William Mango
+#### BY William Mango("https://github.com/mangowilliam")
 ## Description
 The project enables user to view  and sample our services as it acts as a gateway and the starting point to seeking for our services such as design development and management.you can also contact us .
 ## Setup/Installation Requirements
