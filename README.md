@@ -13,7 +13,7 @@ alternatively you can down from github/mangowilliam.
 |enter name and email	       |submit       |get notification            |
 | click on icons	           |             |  |read description         |
 |click on description	       |see the icon |                            |
-|hover over portfolio class  |see message box             |
+|hover over portfolio class  |see message box     at the bottom left    |
 ## Known Bugs
 So far no identified bugs but if you get any contact me on 0702658317
 ## Technologies Used
