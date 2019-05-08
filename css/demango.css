@@ -60,7 +60,7 @@ body {
   background: white;
 }
 
-#space {
+.col-md-3 {
   margin: 0px;
   background: white;
 }
@@ -83,11 +83,11 @@ body {
   z-index: 30;
 }
 
-.hided span.showd {
+.hided span.showDisplay {
   display: none;
 }
 
-.hided:hover span.showd {
+.hided:hover span.showDisplay {
   position: absolute;
   display: block;
   font-size: 18px;
@@ -97,7 +97,7 @@ body {
   background-color: white;
 }
 
-span.showbdOnHover {
+span.showBodyOnDisplay {
   font-size: 16px;
   font-weight: normal;
   color: #444;
@@ -114,6 +114,7 @@ span.fullname {
 
 #name {
   background: transparent;
+  input: text;
 }
 
 #message {
@@ -122,6 +123,10 @@ span.fullname {
 
 #mail {
   background: transparent;
+}
+
+input:invalid {
+  background-color: red;
 }
 
 @media (min-width: 768px) {
