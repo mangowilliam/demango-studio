@@ -30,4 +30,4 @@ https://github.com/mangowilliam/demango-studio
 
 ### License
 The project is licensed under MIT license
-Copyright (c) 2019; mango.edu
+Copyright (c) 2019; mango.edu  https://opensource.org/licenses/MIT
