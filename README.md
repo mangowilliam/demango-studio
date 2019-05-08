@@ -1,4 +1,4 @@
-# DEMANGO STUDIO
+# DELANI STUDIO
 #### The application  determines acts a landing page for our studio
 #### BY William Mango
 ## Description
