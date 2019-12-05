@@ -65,7 +65,7 @@ body {
   background: white;
 }
 
-#space {
+.col-md-3 {
   margin: 0px;
   background: white;
 }
@@ -79,10 +79,6 @@ body {
   background-image: url(../img/img3.jpg);
 }
 
-.lenth {
- 
-}
-
 .portfolio {
   z-index: 10;
 }
@@ -91,11 +87,11 @@ body {
   z-index: 30;
 }
 
-.hided span.showd {
+.hided span.showDisplay {
   display: none;
 }
 
-.hided:hover span.showd {
+.hided:hover span.showDisplay {
   position: absolute;
   display: block;
   font-size: 18px;
@@ -105,7 +101,7 @@ body {
   background-color: white;
 }
 
-span.showbdOnHover {
+span.showBodyOnDisplay {
   font-size: 16px;
   font-weight: normal;
   color: #444;
@@ -116,8 +112,13 @@ span.fullname {
   display: none;
 }
 
+::placeholder {
+  color: white;
+}
+
 #name {
   background: transparent;
+  input: text;
 }
 
 #message {
@@ -128,8 +129,8 @@ span.fullname {
   background: transparent;
 }
 
-placeholder {
-  color: white;
+input:invalid {
+  background-color: red;
 }
 
 @media (min-width: 768px) {
