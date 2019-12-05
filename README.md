@@ -1,6 +1,6 @@
-# DEMANGO STUDIO
+# DELANI STUDIO
 #### The application  determines acts a landing page for our studio
-#### BY William Mango
+#### BY William Mango('https://github.com/mangowilliam')
 ## Description
 The project enables user to view  and sample our services as it acts as a gateway and the starting point to seeking for our services such as design development and management.you can also contact us .
 ## Setup/Installation Requirements
@@ -12,8 +12,8 @@ alternatively you can down from github/mangowilliam.
 |----------------------------|-------------|----------------------------|
 |enter name and email	       |submit       |get notification            |
 | click on icons	           |             |  |read description         |
-|click on description	       |see the icon |                            |
-|hover over portfolio class     |1.8,2     |see message box             |
+|click on description	       |             |     see the icon           |
+|hover over portfolio        |             |see message box             |
 ## Known Bugs
 So far no identified bugs but if you get any contact me on 0702658317
 ## Technologies Used
