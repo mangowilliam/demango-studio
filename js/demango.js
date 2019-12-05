@@ -29,6 +29,10 @@ $(document).ready(function() {
 
   });
 });
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+
 $(document).ready(function() {
   $("form.fullname").submit(function(event) {
     var fullname = $("input#name").val();
